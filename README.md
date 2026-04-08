@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Salman Shah</h1>
+
+<img width="942" height="660" alt="Screenshot from 2026-04-08 13-14-52" src="https://github.com/user-attachments/assets/d94662a2-9d5e-4988-b83b-e58869a5cf74" />
+
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <h1 align="center">
