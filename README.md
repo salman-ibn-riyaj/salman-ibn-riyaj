@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Salman Shah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&strikethrough=false&duration=2000&pause=500&color=1877F2&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Salman+Shah;MERN+Stack+Developer;Immensely+love+Developing;Let's+make+something+cool!" alt="Typing SVG" />
+</h1>
+
 - 🌱 I’m currently learning **MongoDB, Express.js, React.js, Node.js**
 
 - 📫 How to reach me **salmanibnriyaj@gmail.com**
