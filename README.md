@@ -31,10 +31,12 @@
 - 💡 Exploring new technologies and building cool projects
 - 🎉 Participating in Meetups & Tech Events
 <br/><br/><br/>
+```js
 const salmanShah = {
     pronouns: "he/him",<br/>
     code: ["JavaScript", "HTML5", "CSS3", "Tailwind CSS"],<br/>
     tools: ["React", "Redux", "Next.js", "Node.js"],<br/>
     challenge: "I am doing the Code challenge focused on React"<br/>
 };
+```
 
