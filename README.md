@@ -24,8 +24,11 @@
 <a href="https://mastodon.social/salmanshahrz" target="blank">
   <img align="center" src="https://cdn.simpleicons.org/mastodon/6364FF" alt="mastodon" height="30" width="40" />
 </a>
-   
+
+<a href="https://twitter.com/salmanshahrz" target="blank">
+  <img align="center" src="https://cdn.simpleicons.org/x/000000" alt="twitter" height="30" width="40" />
 </a>
+
 </p><br/>
 
 <h3 align="left">Languages and Tools:</h3>
