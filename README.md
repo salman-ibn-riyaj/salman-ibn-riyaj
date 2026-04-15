@@ -35,6 +35,9 @@
 <a href="https://threads.net/@salman_shah_rz" target="blank">
   <img align="center" src="https://cdn.simpleicons.org/threads/000000" alt="threads" height="30" width="40" />
 </a>
+<a href="https://discord.com/users/1169250384490020966" target="blank">
+  <img align="center" src="https://cdn.simpleicons.org/discord/5865F2" alt="discord" height="30" width="40" />
+</a>
 </p><br/>
 
 <h3 align="left">Languages and Tools:</h3>
