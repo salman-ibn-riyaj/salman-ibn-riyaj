@@ -58,4 +58,19 @@ const salmanShah = {
     challenge: "I am doing the Code challenge focused on React"<br/>
 };
 ```
+<br></br>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salman-ibn-riyaj&theme=tokyonight" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salman-ibn-riyaj&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salman-ibn-riyaj&theme=tokyonight" width="49%" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=salman-ibn-riyaj&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salman-ibn-riyaj&theme=tokyo-night&hide_border=true&area=true&line=58a6ff&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
