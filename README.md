@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salman Shah</h1>
+<h1 align="center">Hi, I'm Salman Shah</h1>
 
 ![for-github](https://github.com/user-attachments/assets/27b06ee1-63a9-468d-9f0b-ce01135e52c9)
 
