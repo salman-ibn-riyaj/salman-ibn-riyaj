@@ -7,7 +7,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&strikethrough=false&duration=2000&pause=500&color=1877F2&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Salman+Shah;MERN+Stack+Developer;Immensely+love+Developing;Let's+make+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&strikethrough=false&duration=2000&pause=500&color=1877F2&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Salman+Shah;Full+(MERN)+Stack+Developer;Immensely+love+Developing;Let's+make+something+cool!" alt="Typing SVG" />
 </h1>
 
 - 🌱 I’m currently learning **MongoDB, Express.js, React.js, Node.js**
@@ -69,8 +69,6 @@ const salmanShah = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salman-ibn-riyaj&theme=tokyonight" width="49%" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=salman-ibn-riyaj&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salman-ibn-riyaj&theme=tokyo-night&hide_border=true&area=true&line=58a6ff&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
